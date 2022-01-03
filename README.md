@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there:wave:
+### :mag_right:SNS
+<a href="https://www.instagram.com/zooju/" target="_blank"><img src="https://img.shields.io/badge/zooju-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+### :mag_right:Skills
+#### :fire:*Learning Platforms & Languages*
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java"/>
+
+
+
 
 <!--
 **kimhyeonju/kimhyeonju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
